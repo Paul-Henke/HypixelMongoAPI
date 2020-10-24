@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/xg3AGKgVBILkGE0GvCucm9TgIOFrJozQdrz8W8/xNtv304XBRMzwPe5QcGIZxtu1/TsGwC7ZBaPfH7kkUDXvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paul Henke\\Desktop\\Hypixel\\Hypixel\\Hypixel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paul Henke\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
